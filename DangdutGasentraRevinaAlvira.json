@@ -20,20 +20,15 @@
     }
   ],
   "Categories": [
-    {
+     {
       "id": 1,
       "name_category": "category 1",
-      "image": "file:///android_asset/image/categori1.png"
+      "image": "https://archive.org/download/categori1/categori1.png"
     },
     {
       "id": 2,
       "name_category": "category 2",
-      "image": "file:///android_asset/image/categori2.png"
-    },
-    {
-      "id": 3,
-      "name_category": "category 3",
-      "image": "file:///android_asset/image/categori3.png"
+      "image": "https://archive.org/download/categori2/categori2.png"
     }
   ],
   "Data": [
