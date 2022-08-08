@@ -20,10 +20,20 @@
     }
   ],
   "Categories": [
-   {
+    {
       "id": 1,
       "name_category": "category 1",
       "image": "file:///android_asset/image/categori1.png"
+    },
+    {
+      "id": 2,
+      "name_category": "category 2",
+      "image": "file:///android_asset/image/categori2.png"
+    },
+    {
+      "id": 3,
+      "name_category": "category 3",
+      "image": "file:///android_asset/image/categori3.png"
     }
   ],
   "Data": [
@@ -34,6 +44,14 @@
       "title": "Mengejar Badai",
       "image": "file:///android_asset/image/categori4.png",
       "link_mp3": "https://ia601401.us.archive.org/11/items/01-mengejar-badai-revina-alvira/01%20Mengejar%20Badai%20-%20Revina%20Alvira.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 2,
+      "name_category": "category 1",
+      "title": "Pecah Seribu",
+      "image": "file:///android_asset/image/categori4.png",
+      "link_mp3": "https://ia601507.us.archive.org/30/items/02-pecah-seribu-revina-alvira/02%20Pecah%20Seribu%20-%20Revina%20Alvira.mp3",
       "lyrics": ""
     }
   ]
