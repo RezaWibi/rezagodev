@@ -38,11 +38,11 @@
   ],
   "Data": [
    
-  {
+ {
       "id": 1,
       "name_category": "category 1",
       "title": "Mengejar Badai",
-      "image": "file:///android_asset/image/categori4.png",
+      "image": "https://archive.org/download/categori1/categori1.png",
       "link_mp3": "https://ia601401.us.archive.org/11/items/01-mengejar-badai-revina-alvira/01%20Mengejar%20Badai%20-%20Revina%20Alvira.mp3",
       "lyrics": ""
     },
@@ -50,7 +50,7 @@
       "id": 2,
       "name_category": "category 1",
       "title": "Pecah Seribu",
-      "image": "file:///android_asset/image/categori4.png",
+      "image": "https://archive.org/download/categori1/categori1.png",
       "link_mp3": "https://ia601507.us.archive.org/30/items/02-pecah-seribu-revina-alvira/02%20Pecah%20Seribu%20-%20Revina%20Alvira.mp3",
       "lyrics": ""
     },
@@ -58,7 +58,7 @@
       "id": 3,
       "name_category": "category 1",
       "title": "Bidadari Cinta",
-      "image": "file:///android_asset/image/categori4.png",
+      "image": "https://archive.org/download/categori1/categori1.png",
       "link_mp3": "https://ia601501.us.archive.org/35/items/03-bidadari-cinta-revina-alvira-ft-dendi/03%20Bidadari%20Cinta%20-%20Revina%20Alvira%20ft%20Dendi.mp3",
       "lyrics": ""
     },
@@ -66,7 +66,7 @@
       "id": 4,
       "name_category": "category 1",
       "title": "Kepastian",
-      "image": "file:///android_asset/image/categori4.png",
+      "image": "https://archive.org/download/categori1/categori1.png",
       "link_mp3": "https://ia902500.us.archive.org/7/items/04-kepastian-revina-alvira/04%20Kepastian%20-%20Revina%20Alvira.mp3",
       "lyrics": ""
     },
@@ -74,7 +74,7 @@
       "id": 5,
       "name_category": "category 1",
       "title": "Sejuta Luka",
-      "image": "file:///android_asset/image/categori4.png",
+      "image": "https://archive.org/download/categori1/categori1.png",
       "link_mp3": "https://ia601506.us.archive.org/17/items/05-sejuta-luka-revina-alvira/05%20Sejuta%20Luka%20-%20Revina%20Alvira.mp3",
       "lyrics": ""
     },
@@ -82,7 +82,7 @@
       "id": 6,
       "name_category": "category 1",
       "title": "Anak Yang Malang",
-      "image": "file:///android_asset/image/categori4.png",
+      "image": "https://archive.org/download/categori1/categori1.png",
       "link_mp3": "https://ia601402.us.archive.org/2/items/06-anak-yang-malang-revina-alvira/06%20Anak%20Yang%20Malang%20-%20Revina%20Alvira.mp3",
       "lyrics": ""
     },
@@ -90,7 +90,7 @@
       "id": 7,
       "name_category": "category 1",
       "title": "Bulan Diranting Cemara",
-      "image": "file:///android_asset/image/categori4.png",
+      "image": "https://archive.org/download/categori1/categori1.png",
       "link_mp3": "https://ia601506.us.archive.org/19/items/07-bulan-diranting-cemara-revina-alvira/07%20Bulan%20Diranting%20Cemara%20-%20Revina%20Alvira.mp3",
       "lyrics": ""
     },
@@ -98,7 +98,7 @@
       "id": 8,
       "name_category": "category 1",
       "title": "Pertemuan",
-      "image": "file:///android_asset/image/categori4.png",
+      "image": "https://archive.org/download/categori1/categori1.png",
       "link_mp3": "https://ia601503.us.archive.org/5/items/08-pertemuan-revina-alvira-ft-rian/08%20Pertemuan%20-%20Revina%20Alvira%20ft%20Rian.mp3",
       "lyrics": ""
     },
@@ -106,7 +106,7 @@
       "id": 9,
       "name_category": "category 1",
       "title": "Sumpah Benang Emas",
-      "image": "file:///android_asset/image/categori4.png",
+      "image": "https://archive.org/download/categori1/categori1.png",
       "link_mp3": "https://ia902500.us.archive.org/24/items/09-sumpah-benang-emas-revina-alvira/09%20Sumpah%20Benang%20Emas%20-%20Revina%20Alvira.mp3",
       "lyrics": ""
     },
@@ -114,7 +114,7 @@
       "id": 10,
       "name_category": "category 1",
       "title": "Kandas",
-      "image": "file:///android_asset/image/categori4.png",
+      "image": "https://archive.org/download/categori1/categori1.png",
       "link_mp3": "https://ia601505.us.archive.org/1/items/10-kandas-revina-alvira/10%20Kandas%20%20-%20Revina%20Alvira.mp3",
       "lyrics": ""
     },
@@ -122,7 +122,7 @@
       "id": 11,
       "name_category": "category 2",
       "title": "Payung Hitam",
-      "image": "file:///android_asset/image/categori4.png",
+      "image": "https://archive.org/download/categori2/categori2.png",
       "link_mp3": "https://ia601409.us.archive.org/1/items/11-payung-hitam-revina-alvira/11%20Payung%20Hitam%20-%20Revina%20Alvira.mp3",
       "lyrics": ""
     },
@@ -130,7 +130,7 @@
       "id": 12,
       "name_category": "category 2",
       "title": "Jera",
-      "image": "file:///android_asset/image/categori4.png",
+      "image": "https://archive.org/download/categori2/categori2.png",
       "link_mp3": "https://ia902501.us.archive.org/3/items/12-jera-revina-alvira/12%20Jera%20%20-%20Revina%20Alvira.mp3",
       "lyrics": ""
     },
@@ -138,7 +138,7 @@
       "id": 13,
       "name_category": "category 2",
       "title": "Cincin Kepalsuan",
-      "image": "file:///android_asset/image/categori4.png",
+      "image": "https://archive.org/download/categori2/categori2.png",
       "link_mp3": "https://ia601406.us.archive.org/11/items/13-cincin-kepalsuan-revina-alvira/13%20Cincin%20Kepalsuan%20-%20Revina%20Alvira.mp3",
       "lyrics": ""
     },
@@ -146,7 +146,7 @@
       "id": 14,
       "name_category": "category 2",
       "title": "Cinta Noda Hitam",
-      "image": "file:///android_asset/image/categori4.png",
+      "image": "https://archive.org/download/categori2/categori2.png",
       "link_mp3": "https://ia601503.us.archive.org/19/items/14-cinta-noda-hitam-revina-alvira/14%20Cinta%20Noda%20Hitam%20-%20Revina%20Alvira.mp3",
       "lyrics": ""
     },
@@ -154,7 +154,7 @@
       "id": 15,
       "name_category": "category 2",
       "title": "Bagai Ranting Yang Kering",
-      "image": "file:///android_asset/image/categori4.png",
+      "image": "https://archive.org/download/categori2/categori2.png",
       "link_mp3": "https://ia601403.us.archive.org/28/items/15-bagai-ranting-yang-kering-revina-alvira/15%20Bagai%20Ranting%20Yang%20Kering%20-%20Revina%20Alvira.mp3",
       "lyrics": ""
     },
@@ -162,7 +162,7 @@
       "id": 16,
       "name_category": "category 2",
       "title": "Egois",
-      "image": "file:///android_asset/image/categori4.png",
+      "image": "https://archive.org/download/categori2/categori2.png",
       "link_mp3": "https://ia601502.us.archive.org/29/items/16-egois-revina-alvira/16%20Egois%20-%20Revina%20Alvira.mp3",
       "lyrics": ""
     },
@@ -170,7 +170,7 @@
       "id": 17,
       "name_category": "category 2",
       "title": "Mawar Putih",
-      "image": "file:///android_asset/image/categori4.png",
+      "image": "https://archive.org/download/categori2/categori2.png",
       "link_mp3": "https://ia601501.us.archive.org/28/items/17-mawar-putih-revina-alvira/17%20Mawar%20Putih%20-%20Revina%20Alvira.mp3",
       "lyrics": ""
     },
@@ -178,7 +178,7 @@
       "id": 18,
       "name_category": "category 2",
       "title": "Dasi Dan Gincu",
-      "image": "file:///android_asset/image/categori4.png",
+      "image": "https://archive.org/download/categori2/categori2.png",
       "link_mp3": "https://ia601406.us.archive.org/26/items/18-dasi-dan-gincu-revina-alvira-ft-rian/18%20Dasi%20Dan%20Gincu%20-%20Revina%20Alvira%20ft%20Rian.mp3",
       "lyrics": ""
     },
@@ -186,7 +186,7 @@
       "id": 19,
       "name_category": "category 2",
       "title": "Haruskah Berakhir",
-      "image": "file:///android_asset/image/categori4.png",
+      "image": "https://archive.org/download/categori2/categori2.png",
       "link_mp3": "https://ia601507.us.archive.org/20/items/19-haruskah-berakhir-revina-alvira/19%20Haruskah%20Berakhir%20-%20Revina%20Alvira.mp3",
       "lyrics": ""
     },
@@ -194,7 +194,7 @@
       "id": 20,
       "name_category": "category 2",
       "title": "Citra Cinta",
-      "image": "file:///android_asset/image/categori4.png",
+      "image": "https://archive.org/download/categori2/categori2.png",
       "link_mp3": "https://ia601405.us.archive.org/27/items/20-citra-cinta-revina-alvira/20%20Citra%20Cinta%20-%20Revina%20Alvira.mp3",
       "lyrics": ""
     },
@@ -202,7 +202,7 @@
       "id": 21,
       "name_category": "category 3",
       "title": "Tabir Kepalsuan",
-      "image": "file:///android_asset/image/categori4.png",
+      "image": "https://archive.org/download/categori3/categori3.png",
       "link_mp3": "https://ia902509.us.archive.org/7/items/21-tabir-kepalsuan-revina-alvira/21%20Tabir%20Kepalsuan%20-%20Revina%20Alvira.mp3",
       "lyrics": ""
     },
@@ -210,7 +210,7 @@
       "id": 22,
       "name_category": "category 3",
       "title": "Goresan Luka",
-      "image": "file:///android_asset/image/categori4.png",
+      "image": "https://archive.org/download/categori3/categori3.png",
       "link_mp3": "https://ia902500.us.archive.org/32/items/22-goresan-luka-revina-alvira/22%20Goresan%20Luka%20-%20Revina%20Alvira.mp3",
       "lyrics": ""
     },
@@ -218,7 +218,7 @@
       "id": 23,
       "name_category": "category 3",
       "title": "Jalan Datar",
-      "image": "file:///android_asset/image/categori4.png",
+      "image": "https://archive.org/download/categori3/categori3.png",
       "link_mp3": "https://ia601403.us.archive.org/12/items/23-jalan-datar-revina-alvira/23%20Jalan%20Datar%20-%20Revina%20Alvira.mp3",
       "lyrics": ""
     },
@@ -226,7 +226,7 @@
       "id": 24,
       "name_category": "category 3",
       "title": "Pantun Cinta",
-      "image": "file:///android_asset/image/categori4.png",
+      "image": "https://archive.org/download/categori3/categori3.png",
       "link_mp3": "https://ia601507.us.archive.org/19/items/24-pantun-cinta-revina-alvira/24%20Pantun%20Cinta%20-%20Revina%20Alvira.mp3",
       "lyrics": ""
     },
@@ -234,7 +234,7 @@
       "id": 25,
       "name_category": "category 3",
       "title": "Keranda Cinta",
-      "image": "file:///android_asset/image/categori4.png",
+      "image": "https://archive.org/download/categori3/categori3.png",
       "link_mp3": "https://ia902507.us.archive.org/34/items/25-keranda-cinta-revina-alvira/25%20Keranda%20Cinta%20-%20Revina%20Alvira.mp3",
       "lyrics": ""
     },
@@ -242,7 +242,7 @@
       "id": 26,
       "name_category": "category 3",
       "title": "Kurang Apa",
-      "image": "file:///android_asset/image/categori4.png",
+      "image": "https://archive.org/download/categori3/categori3.png",
       "link_mp3": "https://ia902508.us.archive.org/2/items/26-kurang-apa-revina-alvira/26%20Kurang%20Apa%20-%20Revina%20Alvira.mp3",
       "lyrics": ""
     },
@@ -250,7 +250,7 @@
       "id": 27,
       "name_category": "category 3",
       "title": "Pembaringan Terakhir",
-      "image": "file:///android_asset/image/categori4.png",
+      "image": "https://archive.org/download/categori3/categori3.png",
       "link_mp3": "https://ia601503.us.archive.org/16/items/27-pembaringan-terakhir-revina-alvira/27%20Pembaringan%20Terakhir%20-%20Revina%20Alvira.mp3",
       "lyrics": ""
     },
@@ -258,7 +258,7 @@
       "id": 28,
       "name_category": "category 3",
       "title": "Sejengkal Tanah",
-      "image": "file:///android_asset/image/categori4.png",
+      "image": "https://archive.org/download/categori3/categori3.png",
       "link_mp3": "https://ia601400.us.archive.org/8/items/28-sejengkal-tanah-revina-alvira/28%20Sejengkal%20Tanah%20-%20Revina%20Alvira.mp3",
       "lyrics": ""
     },
@@ -266,7 +266,7 @@
       "id": 29,
       "name_category": "category 3",
       "title": "Secangkir Kopi",
-      "image": "file:///android_asset/image/categori4.png",
+      "image": "https://archive.org/download/categori3/categori3.png",
       "link_mp3": "https://ia601407.us.archive.org/16/items/29-secangkir-kopi-revina-alvira/29%20Secangkir%20Kopi%20-%20Revina%20Alvira.mp3",
       "lyrics": ""
     },
@@ -274,7 +274,7 @@
       "id": 30,
       "name_category": "category 3",
       "title": "Bukan Tak Mampu",
-      "image": "file:///android_asset/image/categori4.png",
+      "image": "https://archive.org/download/categori3/categori3.png",
       "link_mp3": "https://ia601505.us.archive.org/28/items/30-bukan-tak-mampu-revina-alvira/30%20Bukan%20Tak%20Mampu%20-%20Revina%20Alvira.mp3",
       "lyrics": ""
     }
