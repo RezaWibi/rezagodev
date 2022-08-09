@@ -1,12 +1,12 @@
 {
   "Ads": [
     {
-      "select_main_ads": "ADMOB",
-      "select_backup_ads":"APPLOVIN-M",
-      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
-      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
-      "backup_ads_banner":"db4d5e8718b97d78",
-      "backup_ads_intertitial":"518cd97722c60b52",
+      "select_main_ads": "",
+      "select_backup_ads":"",
+      "main_ads_banner": "",
+      "main_ads_intertitial":"",
+      "backup_ads_banner":"",
+      "backup_ads_intertitial":"",
       "interval_intertitial": 5,
       "initialize_sdk":"107355779",
       "initialize_sdk_backup_ads":"",
@@ -22,19 +22,56 @@
   "Categories": [
     {
       "id": 1,
-      "name_category": "Khalid Basalamah",
-      "image": "file:///android_asset/image/khalid.jpg"
+      "name_category": "DJ VIRAL",
+      "image": "https://archive.org/download/png-clipart-wall-decal-headphones-art-sticker-headphones-electronics-monochrome/png-clipart-wall-decal-headphones-art-sticker-headphones-electronics-monochrome.png"
+    },
+    {
+      "id": 2,
+      "name_category": "DJ OLD",
+      "image": "https://archive.org/download/png-transparent-sticker-music-disc-jockey-song-headphones-headphones-electronics-monochrome-sticker/png-transparent-sticker-music-disc-jockey-song-headphones-headphones-electronics-monochrome-sticker.png"
     }
   ],
   "Data": [
     {
       "id": 1,
-      "name_category": "Khalid Basalamah",
-      "title": "Paksakan Ibadah",
-      "image": "https://carapandang.com/assets/images/news/carapandang-30506.jpg",
-      "link_mp3": "https://aliendro.id/uploads/demo/mp3onoff/paksakan_ibadah.mp3",
-      "lyrics": "<p style=\"text-align: center;\">إِلَهِي لَسْتُ لِلْفِرْدَوْسِ أَهْلاً</p>\n<p style=\"text-align: center;\">Ilaahii lastu lil firdausi ahlaan</p>\n<p style=\"text-align: center;\">وَلاَ أَقْوَى عَلىَ نَارِ الْجَحِيْمِ</p>\n<p style=\"text-align: center;\">Wa laa aqwaa &lsquo;alaa naaril jahiimi</p>\n<p style=\"text-align: center;\">فَهَبْ ليِ تَوْبَةً وَاغْفِرْ ذُنُوْبيِ</p>\n<p style=\"text-align: center;\">Fa hablii taubatan waghfir zunuubii</p>\n<p style=\"text-align: center;\">فَإِنَّكَ غَافِرُ الذَّنْبِ الْعَظِيْمِ</p>\n<p style=\"text-align: center;\">Fa innaka ghaafirudzdzambil &lsquo;azhiimi</p>\n<p style=\"text-align: center;\">Ku tak pantas berada dalam surga Mu</p>\n<p style=\"text-align: center;\">Namun tak kuasa bila ku masuk ke neraka Mu</p>\n<p style=\"text-align: center;\">Aku datang mengharap belas kasih dari Mu</p>\n<p style=\"text-align: center;\">Kepada siapa aku meminta selain pada Mu</p>\n<p style=\"text-align: center;\">ذُنُوْبيِ مِثْلُ أَعْدَادِ الرِّمَالِ</p>\n<p style=\"text-align: center;\">Dzunuubii mitslu a&rsquo;daadir rimaali</p>\n<p style=\"text-align: center;\">فَهَبْ ليِ تَوْبَةً يَاذَا الْجَلاَلِ</p>\n<p style=\"text-align: center;\">fa hablii taubatan yaa dzaaljalaali</p>\n<p style=\"text-align: center;\">Engkau pengasih maha pengampun dosa &ndash; dosa</p>\n<p style=\"text-align: center;\">Beriku taubat atas segala kesalahanku</p>\n<p style=\"text-align: center;\">إِلَهِي لَسْتُ لِلْفِرْدَوْسِ أَهْلاً</p>\n<p style=\"text-align: center;\">Ilaahii lastu lil firdausi ahlaan</p>\n<p style=\"text-align: center;\">وَلاَ أَقْوَى عَلىَ نَارِ الْجَحِيْمِ</p>\n<p style=\"text-align: center;\">Wa laa aqwaa &lsquo;alaa naaril jahiimi</p>\n<p style=\"text-align: center;\">فَهَبْ ليِ تَوْبَةً وَاغْفِرْ ذُنُوْبيِ</p>\n<p style=\"text-align: center;\">Fa hablii taubatan waghfir zunuubii</p>\n<p style=\"text-align: center;\">فَإِنَّكَ غَافِرُ الذَّنْبِ الْعَظِيْمِ</p>\n<p style=\"text-align: center;\">Fa innaka ghaafirudzdzambil &lsquo;azhiimi</p>" 
-	  },
+      "name_category": "DJ VIRAL",
+      "title": "DJ PELUK CIUM X LUWAK WHITE",
+      "image": "https://ia601506.us.archive.org/35/items/5_20220809/5.png",
+      "link_mp3": "https://ia601401.us.archive.org/29/items/dj-viral-peluk-cium-x-luwak-white/DJ%20VIRAL%20PELUK%20CIUM%20X%20LUWAK%20WHITE.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 2,
+      "name_category": "DJ VIRAL",
+      "title": "DJ HABIBI YANG KALIAN CARI BASS JEDAG JEDUG FULL BEAT",
+      "image": "https://ia601506.us.archive.org/35/items/5_20220809/5.png",
+      "link_mp3": "https://ia601506.us.archive.org/5/items/dj-viral-tiktok-habibi-yang-kalian-cari-bass-jedag-jedug-full-beat/DJ%20VIRAL%20TIKTOK%20HABIBI%20YANG%20KALIAN%20CARI%20BASS%20JEDAG%20JEDUG%20FULL%20BEAT.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 3,
+      "name_category": "DJ VIRAL",
+      "title": "Dj Baby Dont Go Jedag Jedug Full Bass  DJ SANTUY",
+      "image": "https://ia601506.us.archive.org/35/items/5_20220809/5.png",
+      "link_mp3": "https://ia601408.us.archive.org/13/items/dj-viral-baby-dont-go-jedag-jedug-full-bass-dj-santuy/Dj%20Viral%20Baby%20Dont%20Go%20Jedag%20Jedug%20Full%20Bass%20%20DJ%20SANTUY.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 4,
+      "name_category": "DJ VIRAL",
+      "title": "Dj pok ame ame belalang kupu kupu",
+      "image": "https://ia601506.us.archive.org/35/items/5_20220809/5.png",
+      "link_mp3": "https://ia601400.us.archive.org/16/items/dj-viral-pok-ame-ame-belalang-kupu-kupu/Dj%20viral%20%20pok%20ame%20ame%20belalang%20kupu%20kupu.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 5,
+      "name_category": "",
+      "title": "DJ UNITY REMIX",
+      "image": "https://ia601506.us.archive.org/35/items/5_20220809/5.png",
+      "link_mp3": "https://ia902508.us.archive.org/8/items/dj-unity-remix-lampung-dinda-acil/DJ%20UNITY%20REMIX%20LAMPUNG%20DINDA%20ACIL.mp3",
+      "lyrics": ""
+    }
     
   ]
 }
