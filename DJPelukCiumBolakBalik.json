@@ -66,10 +66,162 @@
     },
     {
       "id": 5,
-      "name_category": "",
+      "name_category": "DJ OLD",
       "title": "DJ UNITY REMIX",
       "image": "https://ia601506.us.archive.org/35/items/5_20220809/5.png",
       "link_mp3": "https://ia902508.us.archive.org/8/items/dj-unity-remix-lampung-dinda-acil/DJ%20UNITY%20REMIX%20LAMPUNG%20DINDA%20ACIL.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 6,
+      "name_category": "DJ OLD",
+      "title": "DJ UDAH GEDE MASIH NENEN",
+      "image": "https://ia601506.us.archive.org/35/items/5_20220809/5.png",
+      "link_mp3": "https://ia601405.us.archive.org/2/items/dj-udah-gede-masih-nenen/DJ%20UDAH%20GEDE%20MASIH%20NENEN.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 7,
+      "name_category": "DJ OLD",
+      "title": "DJ Tuto tuto x Kamu Punya Pacar Lagi",
+      "image": "https://ia601506.us.archive.org/35/items/5_20220809/5.png",
+      "link_mp3": "https://ia601508.us.archive.org/29/items/dj-tuto-tuto-x-kamu-punya-pacar-lagi/DJ%20Tuto%20tuto%20x%20Kamu%20Punya%20Pacar%20Lagi.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 8,
+      "name_category": "DJ OLD",
+      "title": "DJ TRUMPET NARCO VIRAL 2021",
+      "image": "https://ia601506.us.archive.org/35/items/5_20220809/5.png",
+      "link_mp3": "https://ia601408.us.archive.org/12/items/dj-trumpet-narco-viral-tiktok-2021_202208/DJ%20TRUMPET%20NARCO%20VIRAL%20TIKTOK%202021.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 9,
+      "name_category": "DJ OLD",
+      "title": "DJ Tersimpan Remix",
+      "image": "https://ia601506.us.archive.org/35/items/5_20220809/5.png",
+      "link_mp3": "https://ia902508.us.archive.org/7/items/dj-tersimpan-remix/DJ%20Tersimpan%20Remix.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 10,
+      "name_category": "DJ OLD",
+      "title": "DJ TEMANKU SEMUA PADA JAHAT",
+      "image": "https://ia601506.us.archive.org/35/items/5_20220809/5.png",
+      "link_mp3": "https://ia902507.us.archive.org/14/items/dj-temanku-semua-pada-jahat/DJ%20TEMANKU%20SEMUA%20PADA%20JAHAT.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 11,
+      "name_category": "DJ OLD",
+      "title": "DJ TAK SAWANG SAWANG KOWE",
+      "image": "https://ia601506.us.archive.org/35/items/5_20220809/5.png",
+      "link_mp3": "https://ia601501.us.archive.org/31/items/dj-tak-sawang-sawang-kowe/DJ%20TAK%20SAWANG%20SAWANG%20KOWE.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 12,
+      "name_category": "DJ OLD",
+      "title": "DJ TAK BOSAN BOSAN AKU MEMANDANGMU REMIX FULL BASS",
+      "image": "https://ia601506.us.archive.org/35/items/5_20220809/5.png",
+      "link_mp3": "https://ia601506.us.archive.org/35/items/dj-tak-bosan-bosan-aku-memandangmu-remix-full-bass-viral/DJ%20TAK%20BOSAN%20BOSAN%20AKU%20MEMANDANGMU%20REMIX%20FULL%20BASS%20VIRAL.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 13,
+      "name_category": "DJ OLD",
+      "title": "DJ Tagoday Full Beat",
+      "image": "https://ia601506.us.archive.org/35/items/5_20220809/5.png",
+      "link_mp3": "https://ia601505.us.archive.org/27/items/dj-tagoday-full-beat/DJ%20Tagoday%20Full%20Beat.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 14,
+      "name_category": "DJ OLD",
+      "title": "DJ Soria Madele",
+      "image": "https://ia601506.us.archive.org/35/items/5_20220809/5.png",
+      "link_mp3": "https://ia601407.us.archive.org/31/items/dj-soria-madele-by-dj-nansuya/DJ%20Soria%20Madele%20By%20DJ%20Nansuya.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 15,
+      "name_category": "DJ OLD",
+      "title": "DJ MINEFIELDS REMIX FULL BASS",
+      "image": "https://ia601506.us.archive.org/35/items/5_20220809/5.png",
+      "link_mp3": "https://ia601406.us.archive.org/34/items/dj-minefields-remix-full-bass/DJ%20MINEFIELDS%20REMIX%20FULL%20BASS.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 16,
+      "name_category": "DJ OLD",
+      "title": "DJ MELEPAS MASA LAJANG REMIX FULL BASS",
+      "image": "https://ia601506.us.archive.org/35/items/5_20220809/5.png",
+      "link_mp3": "https://ia601401.us.archive.org/19/items/dj-melepas-masa-lajang-remix-full-bass-viral/DJ%20MELEPAS%20MASA%20LAJANG%20REMIX%20FULL%20BASS%20VIRAL.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 17,
+      "name_category": "DJ OLD",
+      "title": "DJ MAMA MUDA GOYANG PAPA MUDA",
+      "image": "https://ia601506.us.archive.org/35/items/5_20220809/5.png",
+      "link_mp3": "https://ia601506.us.archive.org/18/items/dj-mama-muda-goyang-papa-muda-viral/DJ%20MAMA%20MUDA%20GOYANG%20PAPA%20MUDA%20VIRAL.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 18,
+      "name_category": "DJ OLD",
+      "title": "DJ KA KAMU PUNYA PACAR LAGI - DJ JOGET PARGOY",
+      "image": "https://ia601506.us.archive.org/35/items/5_20220809/5.png",
+      "link_mp3": "https://ia601407.us.archive.org/11/items/dj-ka-kamu-punya-pacar-lagi-dj-joget-pargoy-viral/DJ%20KA%20KAMU%20PUNYA%20PACAR%20LAGI%20-%20DJ%20JOGET%20PARGOY%20VIRAL.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 19,
+      "name_category": "DJ VIRAL",
+      "title": "DJ INILAH AKU RAJA MEXSIKO VIRAL",
+      "image": "https://ia601506.us.archive.org/35/items/5_20220809/5.png",
+      "link_mp3": "https://ia601402.us.archive.org/26/items/dj-inilah-aku-raja-mexsiko-viral/DJ%20INILAH%20AKU%20RAJA%20MEXSIKO%20VIRAL.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 20,
+      "name_category": "DJ OLD",
+      "title": "DJ IN DA GETTO X PAK CEPAK CEPAK JEGER VIRAL FULL BASS JEDAG JEDUG",
+      "image": "https://ia601506.us.archive.org/35/items/5_20220809/5.png",
+      "link_mp3": "https://ia601408.us.archive.org/32/items/dj-in-da-getto-x-pak-cepak-cepak-jeger-viral-full-bass-jedag-jedug/DJ%20IN%20DA%20GETTO%20X%20PAK%20CEPAK%20CEPAK%20JEGER%20VIRAL%20FULL%20BASS%20JEDAG%20JEDUG.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 21,
+      "name_category": "DJ VIRAL",
+      "title": "DJ GUE TAU TENANG AJA MAKANNYA KACANG Beat",
+      "image": "https://ia601506.us.archive.org/35/items/5_20220809/5.png",
+      "link_mp3": "https://ia902500.us.archive.org/15/items/dj-gue-tau-tenang-aja-makannya-kacang-beat-viral/DJ%20GUE%20TAU%20TENANG%20AJA%20MAKANNYA%20KACANG%20Beat%20Viral.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 22,
+      "name_category": "DJ VIRAL",
+      "title": "DJ GOYANG PARGOY X PAK CEPAK REMIX VIRAL",
+      "image": "https://ia601506.us.archive.org/35/items/5_20220809/5.png",
+      "link_mp3": "https://ia902502.us.archive.org/4/items/dj-goyang-pargoy-x-pak-cepak-remix-viral/DJ%20GOYANG%20PARGOY%20X%20PAK%20CEPAK%20REMIX%20VIRAL.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 23,
+      "name_category": "DJ VIRAL",
+      "title": "DJ GANI GANI X HUJAN BADAI ANGIN RIBUT SLOW BASS VIRAL",
+      "image": "https://ia601506.us.archive.org/35/items/5_20220809/5.png",
+      "link_mp3": "https://ia902500.us.archive.org/33/items/dj-gani-gani-x-hujan-badai-angin-ribut-slow-bass-viral/DJ%20GANI%20GANI%20X%20HUJAN%20BADAI%20ANGIN%20RIBUT%20SLOW%20BASS%20VIRAL.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 24,
+      "name_category": "DJ OLD",
+      "title": "Dj Di Anggap Teman",
+      "image": "https://ia601506.us.archive.org/35/items/5_20220809/5.png",
+      "link_mp3": "https://ia902509.us.archive.org/11/items/dj-di-anggap-teman-viral/Dj%20Di%20Anggap%20Teman%20Viral.mp3",
       "lyrics": ""
     }
     
