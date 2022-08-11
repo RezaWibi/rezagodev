@@ -22,19 +22,24 @@
   "Categories": [
     {
       "id": 1,
-      "name_category": "Khalid Basalamah",
-      "image": "file:///android_asset/image/khalid.jpg"
+      "name_category": "DUET",
+      "image": "https://ia902503.us.archive.org/15/items/5_20220811_202208/5.png"
+    },
+    {
+      "id": 2,
+      "name_category": "LESTI",
+      "image": "https://ia902503.us.archive.org/17/items/4_20220811/4.png"
     }
   ],
   "Data": [
     {
       "id": 1,
-      "name_category": "Khalid Basalamah",
-      "title": "Paksakan Ibadah",
-      "image": "https://carapandang.com/assets/images/news/carapandang-30506.jpg",
-      "link_mp3": "https://aliendro.id/uploads/demo/mp3onoff/paksakan_ibadah.mp3",
-      "lyrics": "" 
-	  }
+      "name_category": "DUET",
+      "title": "Fildan dan Lesti - Doa Suci",
+      "image": "https://ia902508.us.archive.org/19/items/iconapp_202208/iconapp.png",
+      "link_mp3": "https://ia601509.us.archive.org/13/items/fildan-dan-lesti-doa-suci/Fildan%20dan%20Lesti%20-%20Doa%20Suci.mp3",
+      "lyrics": ""
+    }
     
   ]
 }
