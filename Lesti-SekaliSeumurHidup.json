@@ -32,12 +32,284 @@
     }
   ],
   "Data": [
-    {
+     {
       "id": 1,
       "name_category": "DUET",
       "title": "Fildan dan Lesti - Doa Suci",
       "image": "https://ia902508.us.archive.org/19/items/iconapp_202208/iconapp.png",
       "link_mp3": "https://ia601509.us.archive.org/13/items/fildan-dan-lesti-doa-suci/Fildan%20dan%20Lesti%20-%20Doa%20Suci.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 2,
+      "name_category": "DUET",
+      "title": "LesLar - Memandangmu",
+      "image": "https://ia902508.us.archive.org/19/items/iconapp_202208/iconapp.png",
+      "link_mp3": "https://ia601401.us.archive.org/9/items/les-lar-memandangmu/LesLar%20-%20Memandangmu.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 3,
+      "name_category": "LESTI",
+      "title": "Lesti - Ada Cerita",
+      "image": "https://ia902508.us.archive.org/19/items/iconapp_202208/iconapp.png",
+      "link_mp3": "https://ia601404.us.archive.org/31/items/lesti-ada-cerita/Lesti%20-%20Ada%20Cerita.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 4,
+      "name_category": "LESTI",
+      "title": "Lesti - Ampunilah",
+      "image": "https://ia902508.us.archive.org/19/items/iconapp_202208/iconapp.png",
+      "link_mp3": "https://ia902504.us.archive.org/24/items/lesti-ampunilah/Lesti%20-%20Ampunilah.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 5,
+      "name_category": "LESTI",
+      "title": "Lesti - Anak Yang Malang",
+      "image": "https://ia902508.us.archive.org/19/items/iconapp_202208/iconapp.png",
+      "link_mp3": "https://ia902501.us.archive.org/27/items/lesti-anak-yang-malang/Lesti%20-%20Anak%20Yang%20Malang.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 6,
+      "name_category": "LESTI",
+      "title": "Lesti - Asal Kau Bahagia",
+      "image": "https://ia902508.us.archive.org/19/items/iconapp_202208/iconapp.png",
+      "link_mp3": "https://ia601507.us.archive.org/2/items/lesti-asal-kau-bahagia/Lesti%20-%20Asal%20Kau%20Bahagia.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 7,
+      "name_category": "LESTI",
+      "title": "Lesti - Bawa Aku Ke Penghulu",
+      "image": "https://ia902508.us.archive.org/19/items/iconapp_202208/iconapp.png",
+      "link_mp3": "https://ia902508.us.archive.org/21/items/lesti-bawa-aku-ke-penghulu/Lesti%20-%20Bawa%20Aku%20Ke%20Penghulu.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 8,
+      "name_category": "LESTI",
+      "title": "Lesti - Bimbang",
+      "image": "https://ia902508.us.archive.org/19/items/iconapp_202208/iconapp.png",
+      "link_mp3": "https://ia601502.us.archive.org/35/items/lesti-bimbang/Lesti%20-%20Bimbang.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 9,
+      "name_category": "LESTI",
+      "title": "Lesti - Buka Mata Hati",
+      "image": "https://ia902508.us.archive.org/19/items/iconapp_202208/iconapp.png",
+      "link_mp3": "https://ia601503.us.archive.org/3/items/lesti-buka-mata-hati/Lesti%20-%20Buka%20Mata%20Hati.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 10,
+      "name_category": "LESTI",
+      "title": "Lesti - Cincin Kepalsuan",
+      "image": "https://ia902508.us.archive.org/19/items/iconapp_202208/iconapp.png",
+      "link_mp3": "https://ia601501.us.archive.org/35/items/lesti-cincin-kepalsuan/Lesti%20-%20Cincin%20Kepalsuan.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 11,
+      "name_category": "LESTI",
+      "title": "Lesti - Dasar Jodo",
+      "image": "https://ia902508.us.archive.org/19/items/iconapp_202208/iconapp.png",
+      "link_mp3": "https://ia601506.us.archive.org/30/items/lesti-dasar-jodo/Lesti%20-%20Dasar%20Jodo.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 12,
+      "name_category": "LESTI",
+      "title": "Lesti - Datang Untuk Pergi",
+      "image": "https://ia902508.us.archive.org/19/items/iconapp_202208/iconapp.png",
+      "link_mp3": "https://ia601501.us.archive.org/9/items/lesti-datang-untuk-pergi/Lesti%20-%20Datang%20Untuk%20Pergi.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 13,
+      "name_category": "LESTI",
+      "title": "Lesti - Egois",
+      "image": "https://ia902508.us.archive.org/19/items/iconapp_202208/iconapp.png",
+      "link_mp3": "https://ia601504.us.archive.org/13/items/lesti-egois/Lesti%20-%20Egois.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 14,
+      "name_category": "LESTI",
+      "title": "Lesti - Hadirmu Bagai Mimpi",
+      "image": "https://ia902508.us.archive.org/19/items/iconapp_202208/iconapp.png",
+      "link_mp3": "https://ia601504.us.archive.org/7/items/lesti-hadirmu-bagai-mimpi/Lesti%20-%20Hadirmu%20Bagai%20Mimpi.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 15,
+      "name_category": "LESTI",
+      "title": "Lesti - Ibu",
+      "image": "https://ia902508.us.archive.org/19/items/iconapp_202208/iconapp.png",
+      "link_mp3": "https://ia601406.us.archive.org/31/items/lesti-ibu/Lesti%20-%20Ibu.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 16,
+      "name_category": "LESTI",
+      "title": "Lesti - Jera",
+      "image": "https://ia902508.us.archive.org/19/items/iconapp_202208/iconapp.png",
+      "link_mp3": "https://ia601408.us.archive.org/8/items/lesti-jera/Lesti%20-%20Jera.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 17,
+      "name_category": "LESTI",
+      "title": "Lesti - Juragan Empang",
+      "image": "https://ia902508.us.archive.org/19/items/iconapp_202208/iconapp.png",
+      "link_mp3": "https://ia601501.us.archive.org/30/items/lesti-juragan-empang/Lesti%20-%20Juragan%20Empang.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 18,
+      "name_category": "LESTI",
+      "title": "Lesti - Kejora",
+      "image": "https://ia902508.us.archive.org/19/items/iconapp_202208/iconapp.png",
+      "link_mp3": "https://ia601507.us.archive.org/5/items/lesti-kejora/Lesti%20-%20Kejora.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 19,
+      "name_category": "LESTI",
+      "title": "Lesti - Keramat",
+      "image": "https://ia902508.us.archive.org/19/items/iconapp_202208/iconapp.png",
+      "link_mp3": "https://ia902503.us.archive.org/10/items/lesti-keramat/Lesti%20-%20Keramat.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 20,
+      "name_category": "LESTI",
+      "title": "Lesti - Kulepas Dengan Ikhlas",
+      "image": "https://ia902508.us.archive.org/19/items/iconapp_202208/iconapp.png",
+      "link_mp3": "https://ia601509.us.archive.org/16/items/lesti-kulepas-dengan-ikhlas_202208/Lesti%20-%20Kulepas%20Dengan%20Ikhlas.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 21,
+      "name_category": "LESTI",
+      "title": "Lesti - Mati Gaya",
+      "image": "https://ia902508.us.archive.org/19/items/iconapp_202208/iconapp.png",
+      "link_mp3": "https://ia601409.us.archive.org/26/items/lesti-mati-gaya/Lesti%20-%20Mati%20Gaya.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 22,
+      "name_category": "LESTI",
+      "title": "Lesti - Mimpi Terindah",
+      "image": "https://ia902508.us.archive.org/19/items/iconapp_202208/iconapp.png",
+      "link_mp3": "https://ia601408.us.archive.org/22/items/lesti-mimpi-terindah/Lesti%20-%20Mimpi%20Terindah.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 23,
+      "name_category": "LESTI",
+      "title": "Lesti - patah Hati",
+      "image": "https://ia902508.us.archive.org/19/items/iconapp_202208/iconapp.png",
+      "link_mp3": "https://ia902505.us.archive.org/19/items/lesti-patah-hati/Lesti%20-%20patah%20Hati.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 24,
+      "name_category": "LESTI",
+      "title": "Lesti - Purnama",
+      "image": "https://ia902508.us.archive.org/19/items/iconapp_202208/iconapp.png",
+      "link_mp3": "https://ia601508.us.archive.org/19/items/lesti-purnama/Lesti%20-%20Purnama.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 25,
+      "name_category": "LESTI",
+      "title": "Lesti - Saat Terakhir",
+      "image": "https://ia902508.us.archive.org/19/items/iconapp_202208/iconapp.png",
+      "link_mp3": "https://ia601409.us.archive.org/27/items/lesti-saat-terakhir/Lesti%20-%20Saat%20Terakhir.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 26,
+      "name_category": "LESTI",
+      "title": "Lesti - Sekali Seumur Hidup",
+      "image": "https://ia902508.us.archive.org/19/items/iconapp_202208/iconapp.png",
+      "link_mp3": "https://ia601404.us.archive.org/25/items/lesti-sekali-seumur-hidup/Lesti%20-%20Sekali%20Seumur%20Hidup.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 27,
+      "name_category": "LESTI",
+      "title": "Lesti - Selalu Milikmu",
+      "image": "https://ia902508.us.archive.org/19/items/iconapp_202208/iconapp.png",
+      "link_mp3": "https://ia601401.us.archive.org/6/items/lesti-selalu-milikmu/Lesti%20-%20Selalu%20Milikmu.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 28,
+      "name_category": "LESTI",
+      "title": "Lesti - Sumpah Benang Emas",
+      "image": "https://ia902508.us.archive.org/19/items/iconapp_202208/iconapp.png",
+      "link_mp3": "https://ia601400.us.archive.org/12/items/lesti-sumpah-benang-emas/Lesti%20-%20Sumpah%20Benang%20Emas.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 29,
+      "name_category": "LESTI",
+      "title": "Lesti - Tiada Guna",
+      "image": "https://ia902508.us.archive.org/19/items/iconapp_202208/iconapp.png",
+      "link_mp3": "https://ia601502.us.archive.org/29/items/lesti-tiada-guna/Lesti%20-%20Tiada%20Guna.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 30,
+      "name_category": "LESTI",
+      "title": "Lesti - Tirani",
+      "image": "https://ia902508.us.archive.org/19/items/iconapp_202208/iconapp.png",
+      "link_mp3": "https://ia601508.us.archive.org/31/items/lesti-tirani_202208/Lesti%20-%20Tirani.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 31,
+      "name_category": "LESTI",
+      "title": "Lesti - Zainal",
+      "image": "https://ia902508.us.archive.org/19/items/iconapp_202208/iconapp.png",
+      "link_mp3": "https://ia601404.us.archive.org/24/items/lesti-zainal/Lesti%20-%20Zainal.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 32,
+      "name_category": "LESTI",
+      "title": "Lesti - Zapin Melayu",
+      "image": "https://ia902508.us.archive.org/19/items/iconapp_202208/iconapp.png",
+      "link_mp3": "https://ia601401.us.archive.org/23/items/lesti-zapin-melayu/Lesti%20-%20Zapin%20Melayu.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 33,
+      "name_category": "DUET",
+      "title": "Lesti & Fildan - Gerimis Melanda Hati",
+      "image": "https://ia902508.us.archive.org/19/items/iconapp_202208/iconapp.png",
+      "link_mp3": "https://ia601405.us.archive.org/31/items/lesti-fildan-gerimis-melanda-hati/Lesti%20%26%20Fildan%20-%20Gerimis%20Melanda%20Hati.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 34,
+      "name_category": "DUET",
+      "title": "Lesti & Fildan - Lebih Dari Selamanya",
+      "image": "https://ia902508.us.archive.org/19/items/iconapp_202208/iconapp.png",
+      "link_mp3": "https://ia601504.us.archive.org/30/items/lesti-fildan-lebih-dari-selamanya/Lesti%20%26%20Fildan%20-%20Lebih%20Dari%20Selamanya.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 35,
+      "name_category": "DUET",
+      "title": "Lesti & Rizky Billar - Takdir Cinta",
+      "image": "https://ia902508.us.archive.org/19/items/iconapp_202208/iconapp.png",
+      "link_mp3": "https://ia601507.us.archive.org/22/items/lesti-rizky-billar-takdir-cinta/Lesti%20%26%20Rizky%20Billar%20-%20Takdir%20Cinta.mp3",
       "lyrics": ""
     }
     
