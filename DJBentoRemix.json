@@ -32,44 +32,292 @@
     }
   ],
   "Data": [
-    {
+   {
       "id": 1,
-      "name_category": "DUET",
-      "title": "Fildan dan Lesti - Doa Suci",
+      "name_category": "FULL BASS",
+      "title": "DJ Aca Aca Nehi Nehi",
       "image": "https://ia601400.us.archive.org/18/items/iconapp_20220811/iconapp.png",
       "link_mp3": "https://ia601509.us.archive.org/13/items/fildan-dan-lesti-doa-suci/Fildan%20dan%20Lesti%20-%20Doa%20Suci.mp3",
       "lyrics": ""
     },
     {
       "id": 2,
-      "name_category": "DUET",
-      "title": "LesLar - Memandangmu",
+      "name_category": "FULL BASS",
+      "title": "DJ Aku Jadi Merana",
       "image": "https://ia601400.us.archive.org/18/items/iconapp_20220811/iconapp.png",
-      "link_mp3": "https://ia601401.us.archive.org/9/items/les-lar-memandangmu/LesLar%20-%20Memandangmu.mp3",
+      "link_mp3": "https://ia801406.us.archive.org/30/items/dj-aku-jadi-merana/DJ%20Aku%20Jadi%20Merana.mp3",
       "lyrics": ""
     },
     {
       "id": 3,
-      "name_category": "LESTI",
-      "title": "Lesti - Ada Cerita",
+      "name_category": "FULL BASS",
+      "title": "DJ Always Loving You BB OLD",
       "image": "https://ia601400.us.archive.org/18/items/iconapp_20220811/iconapp.png",
-      "link_mp3": "https://ia601404.us.archive.org/31/items/lesti-ada-cerita/Lesti%20-%20Ada%20Cerita.mp3",
+      "link_mp3": "https://ia601402.us.archive.org/11/items/dj-always-loving-you-bb-old/DJ%20Always%20Loving%20You%20BB%20OLD.mp3",
       "lyrics": ""
     },
     {
       "id": 4,
-      "name_category": "LESTI",
-      "title": "Lesti - Ampunilah",
+      "name_category": "FULL BASS",
+      "title": "DJ Angin Datang Kasih Kabar",
       "image": "https://ia601400.us.archive.org/18/items/iconapp_20220811/iconapp.png",
-      "link_mp3": "https://ia902504.us.archive.org/24/items/lesti-ampunilah/Lesti%20-%20Ampunilah.mp3",
+      "link_mp3": "https://ia601508.us.archive.org/28/items/dj-angin-datang-kasih-kabar/DJ%20Angin%20Datang%20Kasih%20Kabar.mp3",
       "lyrics": ""
     },
     {
       "id": 5,
-      "name_category": "LESTI",
-      "title": "Lesti - Anak Yang Malang",
+      "name_category": "REMIX",
+      "title": "DJ BIAR GENDUT TETAP KU CINTA HAPPY ASMARA FULL BASS REMIX",
       "image": "https://ia601400.us.archive.org/18/items/iconapp_20220811/iconapp.png",
-      "link_mp3": "https://ia902501.us.archive.org/27/items/lesti-anak-yang-malang/Lesti%20-%20Anak%20Yang%20Malang.mp3",
+      "link_mp3": "https://ia601406.us.archive.org/16/items/dj-biar-gendut-tetap-ku-cinta-happy-asmara-full-bass-remix/DJ%20BIAR%20GENDUT%20TETAP%20KU%20CINTA%20HAPPY%20ASMARA%20FULL%20BASS%20REMIX.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 6,
+      "name_category": "FULL BASS",
+      "title": "DJ Bila aku Tututu Jedag Jedug",
+      "image": "https://ia601400.us.archive.org/18/items/iconapp_20220811/iconapp.png",
+      "link_mp3": "https://ia601505.us.archive.org/30/items/dj-bila-aku-tututu-jedag-jedug/DJ%20Bila%20aku%20Tututu%20Jedag%20Jedug.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 7,
+      "name_category": "FULL BASS",
+      "title": "DJ BoyBand Jedag Jedug",
+      "image": "https://ia601400.us.archive.org/18/items/iconapp_20220811/iconapp.png",
+      "link_mp3": "https://ia601403.us.archive.org/16/items/dj-boy-band-jedag-jedug/DJ%20BoyBand%20Jedag%20Jedug.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 8,
+      "name_category": "FULL BASS",
+      "title": "DJ Bukan 1 Kali",
+      "image": "https://ia601400.us.archive.org/18/items/iconapp_20220811/iconapp.png",
+      "link_mp3": "https://ia601508.us.archive.org/14/items/dj-bukan-1-kali/DJ%20Bukan%201%20Kali.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 9,
+      "name_category": "REMIX",
+      "title": "DJ CINTA SAMPAI MATI REMIX VIRAL",
+      "image": "https://ia601400.us.archive.org/18/items/iconapp_20220811/iconapp.png",
+      "link_mp3": "https://ia601503.us.archive.org/2/items/dj-cinta-sampai-mati-remix-viral_202208/DJ%20CINTA%20SAMPAI%20MATI%20REMIX%20VIRAL.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 10,
+      "name_category": "REMIX",
+      "title": "DJ CloudBread Remix",
+      "image": "https://ia601400.us.archive.org/18/items/iconapp_20220811/iconapp.png",
+      "link_mp3": "https://ia601409.us.archive.org/12/items/dj-cloud-bread-remix/DJ%20CloudBread%20Remix.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 11,
+      "name_category": "FULL BASS",
+      "title": "DJ Dari yang Muda X Keringetan Pala ku",
+      "image": "https://ia601400.us.archive.org/18/items/iconapp_20220811/iconapp.png",
+      "link_mp3": "https://ia902501.us.archive.org/31/items/dj-dari-yang-muda-x-keringetan-pala-ku/DJ%20Dari%20yang%20Muda%20X%20Keringetan%20Pala%20ku.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 12,
+      "name_category": "FULL BASS",
+      "title": "DJ Daylamo Viral",
+      "image": "https://ia601400.us.archive.org/18/items/iconapp_20220811/iconapp.png",
+      "link_mp3": "https://ia902509.us.archive.org/27/items/dj-daylamo-viral/DJ%20Daylamo%20Viral.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 13,
+      "name_category": "FULL BASS",
+      "title": "DJ Ditinggalin Okelah Dicuekin Gapapa",
+      "image": "https://ia601400.us.archive.org/18/items/iconapp_20220811/iconapp.png",
+      "link_mp3": "https://ia601500.us.archive.org/14/items/dj-ditinggalin-okelah-dicuekin-gapapa/DJ%20Ditinggalin%20Okelah%20Dicuekin%20Gapapa.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 14,
+      "name_category": "REMIX",
+      "title": "DJ Gambaran Hati Mix",
+      "image": "https://ia601400.us.archive.org/18/items/iconapp_20220811/iconapp.png",
+      "link_mp3": "https://ia601504.us.archive.org/23/items/dj-gambaran-hati-mix/DJ%20Gambaran%20Hati%20Mix.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 15,
+      "name_category": "FULL BASS",
+      "title": "Dj Ghost Jedag Jedug Full Beat",
+      "image": "https://ia601400.us.archive.org/18/items/iconapp_20220811/iconapp.png",
+      "link_mp3": "https://ia601406.us.archive.org/12/items/dj-ghost-jedag-jedug-full-beat/Dj%20Ghost%20Jedag%20Jedug%20Full%20Beat.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 16,
+      "name_category": "REMIX",
+      "title": "DJ GODZILLA SLOW REMIX VIRAL -  IM THE GIRL FOR GODZILLA",
+      "image": "https://ia601400.us.archive.org/18/items/iconapp_20220811/iconapp.png",
+      "link_mp3": "https://ia601504.us.archive.org/10/items/dj-godzilla-slow-remix-viral-im-the-girl-for-godzilla/DJ%20GODZILLA%20SLOW%20REMIX%20VIRAL%20-%20%20IM%20THE%20GIRL%20FOR%20GODZILLA.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 17,
+      "name_category": "FULL BASS",
+      "title": "DJ HATI HATI DI JALAN TULUS",
+      "image": "https://ia601400.us.archive.org/18/items/iconapp_20220811/iconapp.png",
+      "link_mp3": "https://ia601506.us.archive.org/17/items/dj-hati-hati-di-jalan-tulus/DJ%20HATI%20HATI%20DI%20JALAN%20TULUS.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 18,
+      "name_category": "FULL BASS",
+      "title": "DJ Heartbreak Anniversary x Bukan sekali kau buat begini",
+      "image": "https://ia601400.us.archive.org/18/items/iconapp_20220811/iconapp.png",
+      "link_mp3": "https://ia601509.us.archive.org/24/items/dj-heartbreak-anniversary-x-bukan-sekali-kau-buat-begini/DJ%20Heartbreak%20Anniversary%20x%20Bukan%20sekali%20kau%20buat%20begini.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 19,
+      "name_category": "FULL BASS",
+      "title": "DJ Heat Waves Jedag Jedug",
+      "image": "https://ia601400.us.archive.org/18/items/iconapp_20220811/iconapp.png",
+      "link_mp3": "https://ia601500.us.archive.org/33/items/dj-heat-waves-jedag-jedug/DJ%20Heat%20Waves%20Jedag%20Jedug.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 20,
+      "name_category": "REMIX",
+      "title": "DJ Hum Tere Remix",
+      "image": "https://ia601400.us.archive.org/18/items/iconapp_20220811/iconapp.png",
+      "link_mp3": "https://ia601405.us.archive.org/9/items/dj-hum-tere-remix/DJ%20Hum%20Tere%20Remix.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 21,
+      "name_category": "FULL BASS",
+      "title": "DJ In Da Getho",
+      "image": "https://ia601400.us.archive.org/18/items/iconapp_20220811/iconapp.png",
+      "link_mp3": "https://ia902502.us.archive.org/4/items/dj-in-da-getho/DJ%20In%20Da%20Getho.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 22,
+      "name_category": "FULL BASS",
+      "title": "DJ Janda Baru",
+      "image": "https://ia601400.us.archive.org/18/items/iconapp_20220811/iconapp.png",
+      "link_mp3": "https://ia601500.us.archive.org/17/items/dj-janda-baru/DJ%20Janda%20Baru.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 23,
+      "name_category": "FULL BASS",
+      "title": "DJ Lagi lagi Aku Gak Bisa Tidur",
+      "image": "https://ia601400.us.archive.org/18/items/iconapp_20220811/iconapp.png",
+      "link_mp3": "https://ia902506.us.archive.org/12/items/dj-lagi-lagi-aku-gak-bisa-tidur/DJ%20Lagi%20lagi%20Aku%20Gak%20Bisa%20Tidur.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 24,
+      "name_category": "FULL BASS",
+      "title": "Dj Make it bun dem",
+      "image": "https://ia601400.us.archive.org/18/items/iconapp_20220811/iconapp.png",
+      "link_mp3": "https://ia601406.us.archive.org/13/items/dj-make-it-bun-dem/Dj%20Make%20it%20bun%20dem.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 25,
+      "name_category": "FULL BASS",
+      "title": "DJ MENIMISU X AKON RIGHT NOW)",
+      "image": "https://ia601400.us.archive.org/18/items/iconapp_20220811/iconapp.png",
+      "link_mp3": "https://ia601508.us.archive.org/29/items/dj-menimisu-x-akon-right-now/DJ%20MENIMISU%20X%20AKON%20RIGHT%20NOW%29.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 26,
+      "name_category": "FULL BASS",
+      "title": "DJ Money TikTok Pargoy",
+      "image": "https://ia601400.us.archive.org/18/items/iconapp_20220811/iconapp.png",
+      "link_mp3": "https://ia601407.us.archive.org/12/items/dj-money-tik-tok-pargoy/DJ%20Money%20TikTok%20Pargoy.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 27,
+      "name_category": "FULL BASS",
+      "title": "DJ OLD Untuk Mengisi Hatiku",
+      "image": "https://ia601400.us.archive.org/18/items/iconapp_20220811/iconapp.png",
+      "link_mp3": "https://ia601403.us.archive.org/4/items/dj-old-untuk-mengisi-hatiku/DJ%20OLD%20Untuk%20Mengisi%20Hatiku.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 28,
+      "name_category": "FULL BASS",
+      "title": "DJ Onishini X Pargoy",
+      "image": "https://ia601400.us.archive.org/18/items/iconapp_20220811/iconapp.png",
+      "link_mp3": "https://ia601504.us.archive.org/25/items/dj-onishini-x-pargoy/DJ%20Onishini%20X%20Pargoy.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 29,
+      "name_category": "FULL BASS",
+      "title": "DJ PALING JEDAG JEDUG BASS BETON",
+      "image": "https://ia601400.us.archive.org/18/items/iconapp_20220811/iconapp.png",
+      "link_mp3": "https://ia601503.us.archive.org/26/items/dj-paling-jedag-jedug-bass-beton/DJ%20PALING%20JEDAG%20JEDUG%20BASS%20BETON.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 30,
+      "name_category": "FULL BASS",
+      "title": "DJ Pambisilet Slow Bass",
+      "image": "https://ia601400.us.archive.org/18/items/iconapp_20220811/iconapp.png",
+      "link_mp3": "https://ia601409.us.archive.org/9/items/dj-pambisilet-slow-bass/DJ%20Pambisilet%20Slow%20Bass.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 31,
+      "name_category": "REMIX",
+      "title": "DJ PECAH SERIBU REMIX VIRAL",
+      "image": "https://ia601400.us.archive.org/18/items/iconapp_20220811/iconapp.png",
+      "link_mp3": "https://ia601401.us.archive.org/14/items/dj-pecah-seribu-remix-viral/DJ%20PECAH%20SERIBU%20REMIX%20VIRAL.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 32,
+      "name_category": "FULL BASS",
+      "title": "DJ Random Melody by Bongo",
+      "image": "https://ia601400.us.archive.org/18/items/iconapp_20220811/iconapp.png",
+      "link_mp3": "https://ia601506.us.archive.org/16/items/dj-random-melody-by-bongo/DJ%20Random%20Melody%20by%20Bongo.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 33,
+      "name_category": "REMIX",
+      "title": "DJ REMIX VIRAL - SANAM RE",
+      "image": "https://ia601400.us.archive.org/18/items/iconapp_20220811/iconapp.png",
+      "link_mp3": "https://ia601405.us.archive.org/13/items/dj-remix-viral-sanam-re/DJ%20REMIX%20VIRAL%20-%20SANAM%20RE.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 34,
+      "name_category": "FULL BASS",
+      "title": "DJ RIP LOVE FAOUZIA  VIRAL REMIX FULL BASS 2022",
+      "image": "https://ia601400.us.archive.org/18/items/iconapp_20220811/iconapp.png",
+      "link_mp3": "https://ia601503.us.archive.org/2/items/dj-rip-love-faouzia-viral-remix-full-bass-2022/DJ%20RIP%20LOVE%20FAOUZIA%20%20VIRAL%20REMIX%20FULL%20BASS%202022.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 35,
+      "name_category": "FULL BASS",
+      "title": "DJ Salting Ko Paling manis",
+      "image": "https://ia601400.us.archive.org/18/items/iconapp_20220811/iconapp.png",
+      "link_mp3": "https://ia601407.us.archive.org/8/items/dj-salting-ko-paling-manis/DJ%20Salting%20Ko%20Paling%20manis.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 36,
+      "name_category": "REMIX",
+      "title": "DJ SIKOK BAGI DUO REMIX BASS BETON VIRAL",
+      "image": "https://ia601400.us.archive.org/18/items/iconapp_20220811/iconapp.png",
+      "link_mp3": "https://ia902506.us.archive.org/29/items/dj-sikok-bagi-duo-remix-bass-beton-viral/DJ%20SIKOK%20BAGI%20DUO%20REMIX%20BASS%20BETON%20VIRAL.mp3",
       "lyrics": ""
     }
     
