@@ -1,12 +1,12 @@
 {
   "Ads": [
     {
-      "select_main_ads": "ADMOB",
-      "select_backup_ads":"APPLOVIN-M",
-      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
-      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
-      "backup_ads_banner":"db4d5e8718b97d78",
-      "backup_ads_intertitial":"518cd97722c60b52",
+      "select_main_ads": "",
+      "select_backup_ads":"",
+      "main_ads_banner": "",
+      "main_ads_intertitial":"",
+      "backup_ads_banner":"",
+      "backup_ads_intertitial":"",
       "interval_intertitial": 5,
       "initialize_sdk":"107355779",
       "initialize_sdk_backup_ads":"",
@@ -22,17 +22,22 @@
   "Categories": [
     {
       "id": 1,
-      "name_category": "REMIX",
-      "image": "https://ia601404.us.archive.org/16/items/1_20220811_20220811_0729/1.png"
+      "name_category": "DJ REMIX",
+      "image": "https://ia601409.us.archive.org/34/items/1_20220812_20220812_0714/1.png"
+    },
+    {
+      "id": 2,
+      "name_category": "FULL BASS",
+      "image": "https://ia601503.us.archive.org/23/items/2_20220812_20220812/2.png"
     }
   ],
   "Data": [
    {
       "id": 1,
       "name_category": "FULL BASS",
-      "title": "DJ Aca Aca Nehi Nehi",
-      "image": "https://ia601400.us.archive.org/18/items/iconapp_20220811/iconapp.png",
-      "link_mp3": "https://ia601509.us.archive.org/13/items/fildan-dan-lesti-doa-suci/Fildan%20dan%20Lesti%20-%20Doa%20Suci.mp3",
+      "title": "DJ DERMAGA BIRU",
+      "image": "https://ia902504.us.archive.org/8/items/1_20220812_20220812_0723/1.png",
+      "link_mp3": "https://ia601403.us.archive.org/31/items/dj-dermaga-biru/DJ%20DERMAGA%20BIRU.mp3",
       "lyrics": ""
     }
     
