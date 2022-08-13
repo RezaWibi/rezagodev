@@ -29,10 +29,202 @@
   "Data": [
     {
       "id": 1,
-      "name_category": "DUET",
-      "title": "Fildan dan Lesti - Doa Suci",
-      "image": "https://ia902508.us.archive.org/19/items/iconapp_202208/iconapp.png",
-      "link_mp3": "https://ia601509.us.archive.org/13/items/fildan-dan-lesti-doa-suci/Fildan%20dan%20Lesti%20-%20Doa%20Suci.mp3",
+      "name_category": "AMBYAR",
+      "title": "Bidadari Cinta",
+      "image": "https://ia601404.us.archive.org/12/items/iconapp_20220813/iconapp.png",
+      "link_mp3": "https://ia601503.us.archive.org/2/items/bidadari-cinta_202208/Bidadari%20Cinta.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 2,
+      "name_category": "AMBYAR",
+      "title": "Bojo Loro",
+      "image": "https://ia601404.us.archive.org/12/items/iconapp_20220813/iconapp.png",
+      "link_mp3": "https://ia601506.us.archive.org/3/items/bojo-loro/Bojo%20Loro.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 3,
+      "name_category": "AMBYAR",
+      "title": "Buih Jadi Permadani",
+      "image": "https://ia601404.us.archive.org/12/items/iconapp_20220813/iconapp.png",
+      "link_mp3": "https://ia601400.us.archive.org/29/items/buih-jadi-permadani_202208/Buih%20Jadi%20Permadani.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 4,
+      "name_category": "AMBYAR",
+      "title": "Buruh COD",
+      "image": "https://ia601404.us.archive.org/12/items/iconapp_20220813/iconapp.png",
+      "link_mp3": "https://ia601503.us.archive.org/0/items/buruh-cod/Buruh%20COD.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 5,
+      "name_category": "AMBYAR",
+      "title": "Cidro 3",
+      "image": "https://ia601404.us.archive.org/12/items/iconapp_20220813/iconapp.png",
+      "link_mp3": "https://ia601403.us.archive.org/30/items/cidro-3/Cidro%203.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 6,
+      "name_category": "AMBYAR",
+      "title": "Cinta Terlarang",
+      "image": "https://ia601404.us.archive.org/12/items/iconapp_20220813/iconapp.png",
+      "link_mp3": "https://ia601401.us.archive.org/15/items/cinta-terlarang_202208/Cinta%20Terlarang.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 7,
+      "name_category": "AMBYAR",
+      "title": "Cover Lagu Yeni Inka  Tujuh Samudera",
+      "image": "https://ia601404.us.archive.org/12/items/iconapp_20220813/iconapp.png",
+      "link_mp3": "https://ia601507.us.archive.org/2/items/cover-lagu-yeni-inka-tujuh-samudera/Cover%20Lagu%20Yeni%20Inka%20%20Tujuh%20Samudera.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 8,
+      "name_category": "AMBYAR",
+      "title": "Dear Diary",
+      "image": "https://ia601404.us.archive.org/12/items/iconapp_20220813/iconapp.png",
+      "link_mp3": "https://ia601401.us.archive.org/14/items/dear-diary_202208/Dear%20Diary.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 9,
+      "name_category": "AMBYAR",
+      "title": "Demi Kowe",
+      "image": "https://ia601404.us.archive.org/12/items/iconapp_20220813/iconapp.png",
+      "link_mp3": "https://ia601509.us.archive.org/13/items/demi-kowe_202208/Demi%20Kowe.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 10,
+      "name_category": "AMBYAR",
+      "title": "Joko Tingkir  Yeni Inka",
+      "image": "https://ia601404.us.archive.org/12/items/iconapp_20220813/iconapp.png",
+      "link_mp3": "https://ia601508.us.archive.org/6/items/joko-tingkir-yeni-inka-lirik-lagu-indonesia/Joko%20Tingkir%20%20Yeni%20Inka%20%20Lirik%20Lagu%20Indonesia.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 11,
+      "name_category": "AMBYAR",
+      "title": "Proliman Joyo",
+      "image": "https://ia601404.us.archive.org/12/items/iconapp_20220813/iconapp.png",
+      "link_mp3": "https://ia601507.us.archive.org/34/items/proliman-joyo_202208/Proliman%20Joyo.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 12,
+      "name_category": "AMBYAR",
+      "title": "Rembulan Malam",
+      "image": "https://ia601404.us.archive.org/12/items/iconapp_20220813/iconapp.png",
+      "link_mp3": "https://ia601505.us.archive.org/1/items/rembulan-malam_202208/Rembulan%20Malam.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 13,
+      "name_category": "AMBYAR",
+      "title": "Rondo Kempling",
+      "image": "https://ia601404.us.archive.org/12/items/iconapp_20220813/iconapp.png",
+      "link_mp3": "https://ia601503.us.archive.org/14/items/rondo-kempling_202208/Rondo%20Kempling.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 14,
+      "name_category": "AMBYAR",
+      "title": "Satru 2 - Feat Denny Caknan",
+      "image": "https://ia601404.us.archive.org/12/items/iconapp_20220813/iconapp.png",
+      "link_mp3": "https://ia601501.us.archive.org/10/items/satru-2-feat-denny-caknan/Satru%202%20-%20Feat%20Denny%20Caknan.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 15,
+      "name_category": "AMBYAR",
+      "title": "Yeni Inka  AKU BUKAN JODOHNYA",
+      "image": "https://ia601404.us.archive.org/12/items/iconapp_20220813/iconapp.png",
+      "link_mp3": "https://ia601406.us.archive.org/8/items/yeni-inka-aku-bukan-jodohnya-official-music-video-aneka-safari-tri-suaka-nabila/Yeni%20Inka%20%20AKU%20BUKAN%20JODOHNYA%20Official%20Music%20Video%20ANEKA%20SAFARI%20%20%20Tri%20Suaka%20Nabila.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 16,
+      "name_category": "AMBYAR",
+      "title": "Yeni Inka  Full Senyum Sayang",
+      "image": "https://ia601404.us.archive.org/12/items/iconapp_20220813/iconapp.png",
+      "link_mp3": "https://ia601400.us.archive.org/13/items/yeni-inka-full-senyum-sayang-evan-loss-official-music-video-aneka-safari/Yeni%20Inka%20%20Full%20Senyum%20Sayang%20%20Evan%20Loss%20Official%20Music%20Video%20ANEKA%20SAFARI.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 17,
+      "name_category": "AMBYAR",
+      "title": "Yeni Inka  Infone Masseeh  Ninu Ninu Ninu",
+      "image": "https://ia601404.us.archive.org/12/items/iconapp_20220813/iconapp.png",
+      "link_mp3": "https://ia601506.us.archive.org/17/items/yeni-inka-infone-masseeh-ninu-ninu-ninu-official-music-video-aneka-safari/Yeni%20Inka%20%20Infone%20Masseeh%20%20Ninu%20Ninu%20Ninu%20Official%20Music%20Video%20ANEKA%20SAFARI.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 18,
+      "name_category": "AMBYAR",
+      "title": "Yeni Inka  Kekasih Halal",
+      "image": "https://ia601404.us.archive.org/12/items/iconapp_20220813/iconapp.png",
+      "link_mp3": "https://ia902508.us.archive.org/8/items/yeni-inka-kekasih-halal-official-music-video-aneka-safari/Yeni%20Inka%20%20Kekasih%20Halal%20Official%20Music%20Video%20ANEKA%20SAFARI.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 19,
+      "name_category": "AMBYAR",
+      "title": "Yeni Inka  Nenekku Pahlawanku",
+      "image": "https://ia601404.us.archive.org/12/items/iconapp_20220813/iconapp.png",
+      "link_mp3": "https://ia601403.us.archive.org/28/items/yeni-inka-nenekku-pahlawanku-official-music-video-aneka-safari/Yeni%20Inka%20%20Nenekku%20Pahlawanku%20Official%20Music%20Video%20ANEKA%20SAFARI.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 20,
+      "name_category": "AMBYAR",
+      "title": "Yeni Inka  Ngamen 5  Tak Sawang Sawang Koe Ganteng Tenan",
+      "image": "https://ia601404.us.archive.org/12/items/iconapp_20220813/iconapp.png",
+      "link_mp3": "https://ia601406.us.archive.org/17/items/yeni-inka-ngamen-5-tak-sawang-sawang-koe-ganteng-tenan-official-music-video-aneka-safari/Yeni%20Inka%20%20Ngamen%205%20%20Tak%20Sawang%20Sawang%20Koe%20Ganteng%20Tenan%20Official%20Music%20Video%20ANEKA%20SAFARI.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 21,
+      "name_category": "AMBYAR",
+      "title": "Yeni Inka  Ojo Dibandingke",
+      "image": "https://ia601404.us.archive.org/12/items/iconapp_20220813/iconapp.png",
+      "link_mp3": "https://ia601504.us.archive.org/7/items/yeni-inka-ojo-dibandingke-official-music-video-aneka-safari/Yeni%20Inka%20%20Ojo%20Dibandingke%20Official%20Music%20Video%20ANEKA%20SAFARI.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 22,
+      "name_category": "AMBYAR",
+      "title": "Yeni Inka Linting Daun",
+      "image": "https://ia601404.us.archive.org/12/items/iconapp_20220813/iconapp.png",
+      "link_mp3": "https://ia601405.us.archive.org/32/items/yeni-inka-overdosis-rumah-sakit-linting-daun-official-music-video-aneka-safari/Yeni%20Inka%20%20OVERDOSIS%20RUMAH%20SAKIT%20%20Linting%20Daun%20Official%20Music%20Video%20ANEKA%20SAFARI.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 23,
+      "name_category": "AMBYAR",
+      "title": "Yeni Inka  PECAH SERIBU",
+      "image": "https://ia601404.us.archive.org/12/items/iconapp_20220813/iconapp.png",
+      "link_mp3": "https://ia601502.us.archive.org/6/items/yeni-inka-pecah-seribu-official-mv-hanya-dia-yang-ada-diantara-jantung-hati_202208/Yeni%20Inka%20%20PECAH%20SERIBU%20Official%20MV%20Hanya%20Dia%20Yang%20Ada%20Diantara%20Jantung%20Hati.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 24,
+      "name_category": "AMBYAR",
+      "title": "Yeni Inka  TIARA  Jika Kau Bertemu Aku Begini",
+      "image": "https://ia601404.us.archive.org/12/items/iconapp_20220813/iconapp.png",
+      "link_mp3": "https://ia601407.us.archive.org/29/items/yeni-inka-tiara-jika-kau-bertemu-aku-begini-official-music-video-aneka-safari/Yeni%20Inka%20%20TIARA%20%20Jika%20Kau%20Bertemu%20Aku%20Begini%20Official%20Music%20Video%20ANEKA%20SAFARI.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 25,
+      "name_category": "AMBYAR",
+      "title": "Yeni Inka  Top Topan",
+      "image": "https://ia601404.us.archive.org/12/items/iconapp_20220813/iconapp.png",
+      "link_mp3": "https://ia601507.us.archive.org/17/items/yeni-inka-top-topan-dc-musik-official-music-yi-production-kulo-pun-angkat-tangan/Yeni%20Inka%20%20Top%20Topan%20%20DC%20Musik%20Official%20Music%20Yi%20Production%20kulo%20pun%20angkat%20tangan.mp3",
       "lyrics": ""
     }
     
