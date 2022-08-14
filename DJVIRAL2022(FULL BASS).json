@@ -22,8 +22,13 @@
   "Categories": [
     {
       "id": 1,
-      "name_category": "MUSIK DJ",
-      "image": "https://ia601503.us.archive.org/17/items/2_20220813_202208/2.png"
+      "name_category": "DJ 2022",
+      "image": "https://ia601404.us.archive.org/25/items/1_20220814_202208/1.png"
+    },
+    {
+      "id": 2,
+      "name_category": "FULL BASS",
+      "image": "https://ia601502.us.archive.org/17/items/5_20220814/5.png"
     }
   ],
   "Data": [
@@ -31,7 +36,7 @@
       "id": 1,
       "name_category": "MUSIK DJ",
       "title": "DJ BAD LIAR REMIX VIRAL",
-      "image": "https://ia601400.us.archive.org/25/items/iconapp_20220813_1119/iconapp.png",
+      "image": "https://ia601501.us.archive.org/18/items/iconapp_20220814/iconapp.png",
       "link_mp3": "https://ia601507.us.archive.org/17/items/dj-bad-liar-remix-viral/DJ%20BAD%20LIAR%20REMIX%20VIRAL.mp3",
       "lyrics": ""
     }
