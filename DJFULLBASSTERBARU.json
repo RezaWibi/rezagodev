@@ -22,17 +22,257 @@
   "Categories": [
     {
       "id": 1,
-      "name_category": "MUSIK DJ",
-      "image": "https://ia601503.us.archive.org/17/items/2_20220813_202208/2.png"
+      "name_category": "FULL BASS",
+      "image": "https://ia801401.us.archive.org/17/items/2_20220814_20220814/2.png"
     }
   ],
   "Data": [
     {
       "id": 1,
-      "name_category": "MUSIK DJ",
-      "title": "DJ BAD LIAR REMIX VIRAL",
+      "name_category": "FULL BASS",
+      "title": "DJ Aku Jadi Merana",
       "image": "https://ia601400.us.archive.org/25/items/iconapp_20220813_1119/iconapp.png",
-      "link_mp3": "https://ia601507.us.archive.org/17/items/dj-bad-liar-remix-viral/DJ%20BAD%20LIAR%20REMIX%20VIRAL.mp3",
+      "link_mp3": "https://ia601403.us.archive.org/21/items/dj-aku-jadi-merana_202208/DJ%20Aku%20Jadi%20Merana.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 2,
+      "name_category": "FULL BASS",
+      "title": "DJ Always Loving You BB OLD",
+      "image": "https://ia601400.us.archive.org/25/items/iconapp_20220813_1119/iconapp.png",
+      "link_mp3": "https://ia601509.us.archive.org/34/items/dj-always-loving-you-bb-old_202208/DJ%20Always%20Loving%20You%20BB%20OLD.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 3,
+      "name_category": "FULL BASS",
+      "title": "DJ Angin Datang Kasih Kabar",
+      "image": "https://ia601400.us.archive.org/25/items/iconapp_20220813_1119/iconapp.png",
+      "link_mp3": "https://ia601405.us.archive.org/33/items/dj-angin-datang-kasih-kabar_20220814/DJ%20Angin%20Datang%20Kasih%20Kabar.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 4,
+      "name_category": "FULL BASS",
+      "title": "DJ BILA DIA MENYUKAIKU Versi Angklung",
+      "image": "https://ia601400.us.archive.org/25/items/iconapp_20220813_1119/iconapp.png",
+      "link_mp3": "https://ia601405.us.archive.org/30/items/dj-bila-dia-menyukaiku-versi-angklung_202208/DJ%20BILA%20DIA%20MENYUKAIKU%20Versi%20Angklung.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 5,
+      "name_category": "FULL BASS",
+      "title": "DJ Aca Aca Nehi Nehi",
+      "image": "https://ia601400.us.archive.org/25/items/iconapp_20220813_1119/iconapp.png",
+      "link_mp3": "https://ia601502.us.archive.org/17/items/dj-aca-aca-nehi-nehi_202208/DJ%20Aca%20Aca%20Nehi%20Nehi.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 6,
+      "name_category": "FULL BASS",
+      "title": "DJ AKIMILAKU MASIH GANTENG REMIX VIRAL TIK TOK TERBARU 2022",
+      "image": "https://ia601400.us.archive.org/25/items/iconapp_20220813_1119/iconapp.png",
+      "link_mp3": "https://ia601505.us.archive.org/16/items/dj-akimilaku-masih-ganteng-remix-viral-tik-tok-terbaru-2022/DJ%20AKIMILAKU%20MASIH%20GANTENG%20REMIX%20VIRAL%20TIK%20TOK%20TERBARU%202022.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 7,
+      "name_category": "FULL BASS",
+      "title": "DJ BIAR GENDUT TETAP KU CINTA HAPPY ASMARA FULL BASS REMIX",
+      "image": "https://ia601400.us.archive.org/25/items/iconapp_20220813_1119/iconapp.png",
+      "link_mp3": "https://ia601403.us.archive.org/21/items/dj-biar-gendut-tetap-ku-cinta-happy-asmara-full-bass-remix_202208/DJ%20BIAR%20GENDUT%20TETAP%20KU%20CINTA%20HAPPY%20ASMARA%20FULL%20BASS%20REMIX.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 8,
+      "name_category": "FULL BASS",
+      "title": "DJ COME ON TURN THE RADIO ON",
+      "image": "https://ia601400.us.archive.org/25/items/iconapp_20220813_1119/iconapp.png",
+      "link_mp3": "https://ia601406.us.archive.org/5/items/dj-come-on-turn-the-radio-on/DJ%20COME%20ON%20TURN%20THE%20RADIO%20ON.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 9,
+      "name_category": "FULL BASS",
+      "title": "DJ DALAMO DALAMO REMIX VIRAL FULL BASS",
+      "image": "https://ia601400.us.archive.org/25/items/iconapp_20220813_1119/iconapp.png",
+      "link_mp3": "https://ia601402.us.archive.org/6/items/dj-dalamo-dalamo-remix-viral-full-bass_202208/DJ%20DALAMO%20DALAMO%20REMIX%20VIRAL%20FULL%20BASS.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 10,
+      "name_category": "FULL BASS",
+      "title": "DJ DAN JIKA HATI SUDAH TAK MAU",
+      "image": "https://ia601400.us.archive.org/25/items/iconapp_20220813_1119/iconapp.png",
+      "link_mp3": "https://ia601505.us.archive.org/26/items/dj-dan-jika-hati-sudah-tak-mau/DJ%20DAN%20JIKA%20HATI%20SUDAH%20TAK%20MAU.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 11,
+      "name_category": "FULL BASS",
+      "title": "DJ DERMAGA BIRU TIK TOK VIRAL",
+      "image": "https://ia601400.us.archive.org/25/items/iconapp_20220813_1119/iconapp.png",
+      "link_mp3": "https://ia601506.us.archive.org/19/items/dj-dermaga-biru-tik-tok-viral/DJ%20DERMAGA%20BIRU%20TIK%20TOK%20VIRAL.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 12,
+      "name_category": "FULL BASS",
+      "title": "Dj Di Anggap Teman Viral",
+      "image": "https://ia601400.us.archive.org/25/items/iconapp_20220813_1119/iconapp.png",
+      "link_mp3": "https://ia601401.us.archive.org/14/items/dj-di-anggap-teman-viral_20220813/Dj%20Di%20Anggap%20Teman%20Viral.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 13,
+      "name_category": "FULL BASS",
+      "title": "DJ DIA GADIS BERKRUDUNG MERAH",
+      "image": "https://ia601400.us.archive.org/25/items/iconapp_20220813_1119/iconapp.png",
+      "link_mp3": "https://ia601501.us.archive.org/11/items/dj-dia-gadis-berkrudung-merah/DJ%20DIA%20GADIS%20BERKRUDUNG%20MERAH.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 14,
+      "name_category": "FULL BASS",
+      "title": "DJ KOK ISO YO GUYON WATON REMIX",
+      "image": "https://ia601400.us.archive.org/25/items/iconapp_20220813_1119/iconapp.png",
+      "link_mp3": "https://ia601407.us.archive.org/11/items/dj-kok-iso-yo-guyon-waton-remix_20220814/DJ%20KOK%20ISO%20YO%20GUYON%20WATON%20REMIX.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 15,
+      "name_category": "FULL BASS",
+      "title": "DJ LAGI LAGI KU GAK BISA TIDUR REMIX FULL BASS",
+      "image": "https://ia601400.us.archive.org/25/items/iconapp_20220813_1119/iconapp.png",
+      "link_mp3": "https://ia601408.us.archive.org/7/items/dj-lagi-lagi-ku-gak-bisa-tidur-remix-full-bass_20220814/DJ%20LAGI%20LAGI%20KU%20GAK%20BISA%20TIDUR%20REMIX%20FULL%20BASS.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 16,
+      "name_category": "FULL BASS",
+      "title": "DJ MAMA MUDA GOYANG PAPA MUDA VIRAL",
+      "image": "https://ia601400.us.archive.org/25/items/iconapp_20220813_1119/iconapp.png",
+      "link_mp3": "https://ia902500.us.archive.org/2/items/dj-mama-muda-goyang-papa-muda-viral_20220814/DJ%20MAMA%20MUDA%20GOYANG%20PAPA%20MUDA%20VIRAL.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 17,
+      "name_category": "FULL BASS",
+      "title": "DJ MELEPAS MASA LAJANG REMIX FULL BASS VIRAL",
+      "image": "https://ia601400.us.archive.org/25/items/iconapp_20220813_1119/iconapp.png",
+      "link_mp3": "https://ia601502.us.archive.org/7/items/dj-melepas-masa-lajang-remix-full-bass-viral_20220814/DJ%20MELEPAS%20MASA%20LAJANG%20REMIX%20FULL%20BASS%20VIRAL.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 18,
+      "name_category": "FULL BASS",
+      "title": "DJ MINEFIELDS REMIX FULL BASS",
+      "image": "https://ia601400.us.archive.org/25/items/iconapp_20220813_1119/iconapp.png",
+      "link_mp3": "https://ia601504.us.archive.org/6/items/dj-minefields-remix-full-bass_20220814/DJ%20MINEFIELDS%20REMIX%20FULL%20BASS.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 19,
+      "name_category": "FULL BASS",
+      "title": "DJ TRUMPET NARCO VIRAL TIKTOK 2021",
+      "image": "https://ia601400.us.archive.org/25/items/iconapp_20220813_1119/iconapp.png",
+      "link_mp3": "https://ia801401.us.archive.org/35/items/dj-trumpet-narco-viral-tiktok-2021_20220814/DJ%20TRUMPET%20NARCO%20VIRAL%20TIKTOK%202021.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 20,
+      "name_category": "FULL BASS",
+      "title": "DJ UDAH GEDE MASIH NENEN",
+      "image": "https://ia601400.us.archive.org/25/items/iconapp_20220813_1119/iconapp.png",
+      "link_mp3": "https://ia601400.us.archive.org/1/items/dj-udah-gede-masih-nenen_20220814/DJ%20UDAH%20GEDE%20MASIH%20NENEN.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 21,
+      "name_category": "FULL BASS",
+      "title": "DJ INILAH AKU RAJA MEXSIKO VIRAL",
+      "image": "https://ia601400.us.archive.org/25/items/iconapp_20220813_1119/iconapp.png",
+      "link_mp3": "https://ia601504.us.archive.org/30/items/dj-inilah-aku-raja-mexsiko-viral_20220813/DJ%20INILAH%20AKU%20RAJA%20MEXSIKO%20VIRAL.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 22,
+      "name_category": "FULL BASS",
+      "title": "DJ UNITY REMIX LAMPUNG DINDA ACIL",
+      "image": "https://ia601400.us.archive.org/25/items/iconapp_20220813_1119/iconapp.png",
+      "link_mp3": "https://ia601405.us.archive.org/16/items/dj-unity-remix-lampung-dinda-acil_20220814/DJ%20UNITY%20REMIX%20LAMPUNG%20DINDA%20ACIL.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 23,
+      "name_category": "FULL BASS",
+      "title": "Dj Viral Baby Dont Go Jedag Jedug Full Bass  DJ SANTUY",
+      "image": "https://ia601400.us.archive.org/25/items/iconapp_20220813_1119/iconapp.png",
+      "link_mp3": "https://ia601408.us.archive.org/22/items/dj-viral-baby-dont-go-jedag-jedug-full-bass-dj-santuy_20220814/Dj%20Viral%20Baby%20Dont%20Go%20Jedag%20Jedug%20Full%20Bass%20%20DJ%20SANTUY.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 24,
+      "name_category": "FULL BASS",
+      "title": "DJ VIRAL PELUK CIUM X LUWAK WHITE",
+      "image": "https://ia601400.us.archive.org/25/items/iconapp_20220813_1119/iconapp.png",
+      "link_mp3": "https://ia601508.us.archive.org/15/items/dj-viral-peluk-cium-x-luwak-white_20220814/DJ%20VIRAL%20PELUK%20CIUM%20X%20LUWAK%20WHITE.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 25,
+      "name_category": "FULL BASS",
+      "title": "DJ VIRAL TIKTOK HABIBI YANG KALIAN CARI BASS JEDAG JEDUG FULL BEAT",
+      "image": "https://ia601400.us.archive.org/25/items/iconapp_20220813_1119/iconapp.png",
+      "link_mp3": "https://ia601408.us.archive.org/30/items/dj-viral-tiktok-habibi-yang-kalian-cari-bass-jedag-jedug-full-beat_20220814/DJ%20VIRAL%20TIKTOK%20HABIBI%20YANG%20KALIAN%20CARI%20BASS%20JEDAG%20JEDUG%20FULL%20BEAT.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 26,
+      "name_category": "FULL BASS",
+      "title": "DJ KAKA BAJU HITAM X BENTO REMIX",
+      "image": "https://ia601400.us.archive.org/25/items/iconapp_20220813_1119/iconapp.png",
+      "link_mp3": "https://ia902509.us.archive.org/10/items/dj-kaka-baju-hitam-x-bento-remix/DJ%20KAKA%20BAJU%20HITAM%20X%20BENTO%20REMIX.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 27,
+      "name_category": "FULL BASS",
+      "title": "DJ KOK ISO YO GUYON WATON REMIX",
+      "image": "https://ia601400.us.archive.org/25/items/iconapp_20220813_1119/iconapp.png",
+      "link_mp3": "https://ia601407.us.archive.org/17/items/dj-kok-iso-yo-guyon-waton-remix_202208/DJ%20KOK%20ISO%20YO%20GUYON%20WATON%20REMIX.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 28,
+      "name_category": "FULL BASS",
+      "title": "DJ KU BERLAYAR DI LAUTAN VIRAL",
+      "image": "https://ia601400.us.archive.org/25/items/iconapp_20220813_1119/iconapp.png",
+      "link_mp3": "https://ia601506.us.archive.org/1/items/dj-ku-berlayar-di-lautan-viral/DJ%20KU%20BERLAYAR%20DI%20LAUTAN%20VIRAL.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 29,
+      "name_category": "FULL BASS",
+      "title": "DJ LAGI LAGI KU GAK BISA TIDUR REMIX FULL BASS",
+      "image": "https://ia601400.us.archive.org/25/items/iconapp_20220813_1119/iconapp.png",
+      "link_mp3": "https://ia601402.us.archive.org/35/items/dj-lagi-lagi-ku-gak-bisa-tidur-remix-full-bass_202208/DJ%20LAGI%20LAGI%20KU%20GAK%20BISA%20TIDUR%20REMIX%20FULL%20BASS.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 30,
+      "name_category": "FULL BASS",
+      "title": "DJ MELEPAS MASA LAJANG REMIX FULL BASS VIRAL",
+      "image": "https://ia601400.us.archive.org/25/items/iconapp_20220813_1119/iconapp.png",
+      "link_mp3": "https://ia601506.us.archive.org/35/items/dj-melepas-masa-lajang-remix-full-bass-viral_20220813/DJ%20MELEPAS%20MASA%20LAJANG%20REMIX%20FULL%20BASS%20VIRAL.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 31,
+      "name_category": "FULL BASS",
+      "title": "DJ MINEFIELDS REMIX FULL BASS",
+      "image": "https://ia601400.us.archive.org/25/items/iconapp_20220813_1119/iconapp.png",
+      "link_mp3": "https://ia601509.us.archive.org/12/items/dj-minefields-remix-full-bass_20220813/DJ%20MINEFIELDS%20REMIX%20FULL%20BASS.mp3",
       "lyrics": ""
     }
     
