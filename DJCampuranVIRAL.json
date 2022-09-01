@@ -1,11 +1,11 @@
 {
   "Ads": [
     {
-      "select_main_ads": "",
-      "select_backup_ads":"",
-      "main_ads_banner": "",
-      "main_ads_intertitial":"",
-      "backup_ads_banner":"",
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"STARTAPP",
+      "main_ads_banner": "ca-app-pub-1720024634967287/5789097585",
+      "main_ads_intertitial":"ca-app-pub-1720024634967287/8387340762",
+      "backup_ads_banner":"208527698",
       "backup_ads_intertitial":"",
       "interval_intertitial": 5,
       "initialize_sdk":"107355779",
